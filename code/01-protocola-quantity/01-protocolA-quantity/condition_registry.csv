@@ -1,0 +1,8 @@
+condition_id,n_min,n_maj,protocols
+m2000_M2000,2000,2000,protocolA
+m4000_M4000,4000,4000,protocolA
+m8000_M8000,8000,8000,protocolA
+m16000_M16000,16000,16000,protocolA
+m32000_M32000,32000,32000,protocolA
+m64000_M64000,64000,64000,protocolA
+m128000_M128000,128000,128000,protocolA

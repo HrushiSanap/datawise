@@ -1,0 +1,2 @@
+[20:17:01] logistic parameter count: 55298
+[20:44:08] cnn parameter count: 93954

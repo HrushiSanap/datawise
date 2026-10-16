@@ -1,0 +1,3 @@
+[14:52:50] logistic parameter count: 55298
+[16:07:59] cnn parameter count: 93954
+[17:51:39] resnet18 parameter count: 11177538
