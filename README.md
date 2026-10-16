@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23420755.svg)](https://doi.org/10.5281/zenodo.23420755)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-preprint%20(in%20preparation)-yellow.svg)](https://doi.org/10.5281/zenodo.23420755)
+[![Status](https://img.shields.io/badge/status-preprint-yellow.svg)](https://doi.org/10.5281/zenodo.23420755)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Dataset](https://img.shields.io/badge/data-PatchCamelyon%20%2B%20ISIC%202020-1f6feb.svg)](#datasets)
